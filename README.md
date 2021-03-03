@@ -3,4 +3,4 @@ python doom game tutorials porting to QB64
 
 
 
-<IMG SRC ="/prevQB64Doomprog.png" width=250 height=250></IMG> 
+<IMG SRC ="/prev/QB64Doomprog.png" width=250 height=250></IMG> 
