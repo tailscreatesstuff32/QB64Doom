@@ -45,11 +45,6 @@ DIM SHARED weapon_base AS LONG
 
 DIM SHARED buffer1D(304) AS buffer_1D
 
-
-
-'DIM SHARED zbuffer2D(UBOUND(walls) + UBOUND(spr_objects)) as buffer_1D
-
-
 TYPE buffer_1D
     distance AS SINGLE
     posX AS SINGLE
